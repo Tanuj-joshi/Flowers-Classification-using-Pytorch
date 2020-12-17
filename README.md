@@ -7,3 +7,5 @@ The project is broken down into multiple steps:
 1) Load and preprocess the image dataset
 2) Train the image classifier on your dataset
 3) Use the trained classifier to predict image content
+
+##### Note: The full dataset can't be uploaded here in Github due to space limitation. To get full dataset of 102 flower categories can be obtained here, https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html  
